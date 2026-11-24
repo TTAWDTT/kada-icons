@@ -4,207 +4,1065 @@
     "label": "发现",
     "group": "频道",
     "file": "icons/wink-tv.png",
-    "width": 168,
-    "height": 168
+    "sizes": {
+      "24": "sizes/24/wink-tv.png",
+      "48": "sizes/48/wink-tv.png",
+      "96": "icons/wink-tv.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "feed-paperplane",
     "label": "动态",
     "group": "频道",
     "file": "icons/feed-paperplane.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/feed-paperplane.png",
+      "48": "sizes/48/feed-paperplane.png",
+      "96": "icons/feed-paperplane.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "msg-envelope",
     "label": "消息",
     "group": "频道",
     "file": "icons/msg-envelope.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/msg-envelope.png",
+      "48": "sizes/48/msg-envelope.png",
+      "96": "icons/msg-envelope.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "rank-rosette",
     "label": "排行榜",
     "group": "频道",
     "file": "icons/rank-rosette.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/rank-rosette.png",
+      "48": "sizes/48/rank-rosette.png",
+      "96": "icons/rank-rosette.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "popular-flame",
     "label": "综合热门",
     "group": "频道",
     "file": "icons/popular-flame.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/popular-flame.png",
+      "48": "sizes/48/popular-flame.png",
+      "96": "icons/popular-flame.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "precious-ticket",
     "label": "入站必刷",
     "group": "频道",
     "file": "icons/precious-ticket.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/precious-ticket.png",
+      "48": "sizes/48/precious-ticket.png",
+      "96": "icons/precious-ticket.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "weekly-calendar",
     "label": "每周必看",
     "group": "频道",
     "file": "icons/weekly-calendar.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/weekly-calendar.png",
+      "48": "sizes/48/weekly-calendar.png",
+      "96": "icons/weekly-calendar.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "live-camera",
     "label": "直播",
     "group": "频道",
     "file": "icons/live-camera.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/live-camera.png",
+      "48": "sizes/48/live-camera.png",
+      "96": "icons/live-camera.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "bangumi-clapper",
     "label": "番剧",
     "group": "频道",
     "file": "icons/bangumi-clapper.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/bangumi-clapper.png",
+      "48": "sizes/48/bangumi-clapper.png",
+      "96": "icons/bangumi-clapper.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "profile-badge",
     "label": "个人中心",
     "group": "我的",
     "file": "icons/profile-badge.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/profile-badge.png",
+      "48": "sizes/48/profile-badge.png",
+      "96": "icons/profile-badge.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "history-clock",
     "label": "历史",
     "group": "我的",
     "file": "icons/history-clock.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/history-clock.png",
+      "48": "sizes/48/history-clock.png",
+      "96": "icons/history-clock.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "favorite-folder",
     "label": "收藏夹",
     "group": "我的",
     "file": "icons/favorite-folder.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/favorite-folder.png",
+      "48": "sizes/48/favorite-folder.png",
+      "96": "icons/favorite-folder.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "later-screen",
     "label": "稍后再看",
     "group": "我的",
     "file": "icons/later-screen.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/later-screen.png",
+      "48": "sizes/48/later-screen.png",
+      "96": "icons/later-screen.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "following-pair",
     "label": "关注",
     "group": "我的",
     "file": "icons/following-pair.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/following-pair.png",
+      "48": "sizes/48/following-pair.png",
+      "96": "icons/following-pair.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "liked-thumb",
     "label": "赞过的视频",
     "group": "我的",
     "file": "icons/liked-thumb.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/liked-thumb.png",
+      "48": "sizes/48/liked-thumb.png",
+      "96": "icons/liked-thumb.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "library-record",
     "label": "曲库",
     "group": "我的",
     "file": "icons/library-record.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/library-record.png",
+      "48": "sizes/48/library-record.png",
+      "96": "icons/library-record.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "download-tray",
     "label": "已下载",
     "group": "我的",
     "file": "icons/download-tray.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/download-tray.png",
+      "48": "sizes/48/download-tray.png",
+      "96": "icons/download-tray.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "settings-dial",
     "label": "设置",
     "group": "我的",
     "file": "icons/settings-dial.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/settings-dial.png",
+      "48": "sizes/48/settings-dial.png",
+      "96": "icons/settings-dial.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "upload-cloud",
     "label": "投稿",
     "group": "投稿与服务",
     "file": "icons/upload-cloud.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/upload-cloud.png",
+      "48": "sizes/48/upload-cloud.png",
+      "96": "icons/upload-cloud.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "creator-pen",
-    "label": "专栏投稿／创作中心",
+    "label": "创作中心",
     "group": "投稿与服务",
     "file": "icons/creator-pen.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/creator-pen.png",
+      "48": "sizes/48/creator-pen.png",
+      "96": "icons/creator-pen.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "shop-parcel",
     "label": "会员购",
     "group": "投稿与服务",
     "file": "icons/shop-parcel.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/shop-parcel.png",
+      "48": "sizes/48/shop-parcel.png",
+      "96": "icons/shop-parcel.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "comic-book",
     "label": "漫画",
     "group": "投稿与服务",
     "file": "icons/comic-book.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/comic-book.png",
+      "48": "sizes/48/comic-book.png",
+      "96": "icons/comic-book.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "event-cup",
     "label": "赛事",
     "group": "投稿与服务",
     "file": "icons/event-cup.png",
-    "width": 120,
-    "height": 120
+    "sizes": {
+      "24": "sizes/24/event-cup.png",
+      "48": "sizes/48/event-cup.png",
+      "96": "icons/event-cup.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "animation-cels",
     "label": "动画",
-    "group": "内容分区",
+    "group": "分区",
     "file": "icons/animation-cels.png",
-    "width": 112,
-    "height": 112
+    "sizes": {
+      "24": "sizes/24/animation-cels.png",
+      "48": "sizes/48/animation-cels.png",
+      "96": "icons/animation-cels.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "cassette",
     "label": "音乐",
-    "group": "内容分区",
+    "group": "分区",
     "file": "icons/cassette.png",
-    "width": 112,
-    "height": 102
+    "sizes": {
+      "24": "sizes/24/cassette.png",
+      "48": "sizes/48/cassette.png",
+      "96": "icons/cassette.png"
+    },
+    "width": 96,
+    "height": 96
   },
   {
     "name": "handheld",
     "label": "游戏",
-    "group": "内容分区",
+    "group": "分区",
     "file": "icons/handheld.png",
-    "width": 112,
-    "height": 112
+    "sizes": {
+      "24": "sizes/24/handheld.png",
+      "48": "sizes/48/handheld.png",
+      "96": "icons/handheld.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "search",
+    "label": "搜索",
+    "group": "基础操作",
+    "file": "icons/search.png",
+    "sizes": {
+      "24": "sizes/24/search.png",
+      "48": "sizes/48/search.png",
+      "96": "icons/search.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "back",
+    "label": "返回",
+    "group": "基础操作",
+    "file": "icons/back.png",
+    "sizes": {
+      "24": "sizes/24/back.png",
+      "48": "sizes/48/back.png",
+      "96": "icons/back.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "forward",
+    "label": "前进",
+    "group": "基础操作",
+    "file": "icons/forward.png",
+    "sizes": {
+      "24": "sizes/24/forward.png",
+      "48": "sizes/48/forward.png",
+      "96": "icons/forward.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "refresh",
+    "label": "刷新",
+    "group": "基础操作",
+    "file": "icons/refresh.png",
+    "sizes": {
+      "24": "sizes/24/refresh.png",
+      "48": "sizes/48/refresh.png",
+      "96": "icons/refresh.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "close",
+    "label": "关闭",
+    "group": "基础操作",
+    "file": "icons/close.png",
+    "sizes": {
+      "24": "sizes/24/close.png",
+      "48": "sizes/48/close.png",
+      "96": "icons/close.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "more-horizontal",
+    "label": "更多",
+    "group": "基础操作",
+    "file": "icons/more-horizontal.png",
+    "sizes": {
+      "24": "sizes/24/more-horizontal.png",
+      "48": "sizes/48/more-horizontal.png",
+      "96": "icons/more-horizontal.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "filter",
+    "label": "筛选",
+    "group": "基础操作",
+    "file": "icons/filter.png",
+    "sizes": {
+      "24": "sizes/24/filter.png",
+      "48": "sizes/48/filter.png",
+      "96": "icons/filter.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "plus",
+    "label": "添加",
+    "group": "基础操作",
+    "file": "icons/plus.png",
+    "sizes": {
+      "24": "sizes/24/plus.png",
+      "48": "sizes/48/plus.png",
+      "96": "icons/plus.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "check",
+    "label": "完成",
+    "group": "内容操作",
+    "file": "icons/check.png",
+    "sizes": {
+      "24": "sizes/24/check.png",
+      "48": "sizes/48/check.png",
+      "96": "icons/check.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "link",
+    "label": "链接",
+    "group": "内容操作",
+    "file": "icons/link.png",
+    "sizes": {
+      "24": "sizes/24/link.png",
+      "48": "sizes/48/link.png",
+      "96": "icons/link.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "share",
+    "label": "分享",
+    "group": "内容操作",
+    "file": "icons/share.png",
+    "sizes": {
+      "24": "sizes/24/share.png",
+      "48": "sizes/48/share.png",
+      "96": "icons/share.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "edit",
+    "label": "编辑",
+    "group": "内容操作",
+    "file": "icons/edit.png",
+    "sizes": {
+      "24": "sizes/24/edit.png",
+      "48": "sizes/48/edit.png",
+      "96": "icons/edit.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "copy",
+    "label": "复制",
+    "group": "内容操作",
+    "file": "icons/copy.png",
+    "sizes": {
+      "24": "sizes/24/copy.png",
+      "48": "sizes/48/copy.png",
+      "96": "icons/copy.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "trash",
+    "label": "删除",
+    "group": "内容操作",
+    "file": "icons/trash.png",
+    "sizes": {
+      "24": "sizes/24/trash.png",
+      "48": "sizes/48/trash.png",
+      "96": "icons/trash.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "download-device",
+    "label": "下载",
+    "group": "内容操作",
+    "file": "icons/download-device.png",
+    "sizes": {
+      "24": "sizes/24/download-device.png",
+      "48": "sizes/48/download-device.png",
+      "96": "icons/download-device.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "upload-arrow",
+    "label": "上传",
+    "group": "内容操作",
+    "file": "icons/upload-arrow.png",
+    "sizes": {
+      "24": "sizes/24/upload-arrow.png",
+      "48": "sizes/48/upload-arrow.png",
+      "96": "icons/upload-arrow.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "notification-bell",
+    "label": "通知",
+    "group": "沟通与媒体",
+    "file": "icons/notification-bell.png",
+    "sizes": {
+      "24": "sizes/24/notification-bell.png",
+      "48": "sizes/48/notification-bell.png",
+      "96": "icons/notification-bell.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "comment",
+    "label": "评论",
+    "group": "沟通与媒体",
+    "file": "icons/comment.png",
+    "sizes": {
+      "24": "sizes/24/comment.png",
+      "48": "sizes/48/comment.png",
+      "96": "icons/comment.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "heart",
+    "label": "喜欢",
+    "group": "沟通与媒体",
+    "file": "icons/heart.png",
+    "sizes": {
+      "24": "sizes/24/heart.png",
+      "48": "sizes/48/heart.png",
+      "96": "icons/heart.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "calendar",
+    "label": "日历",
+    "group": "沟通与媒体",
+    "file": "icons/calendar.png",
+    "sizes": {
+      "24": "sizes/24/calendar.png",
+      "48": "sizes/48/calendar.png",
+      "96": "icons/calendar.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "play",
+    "label": "播放",
+    "group": "沟通与媒体",
+    "file": "icons/play.png",
+    "sizes": {
+      "24": "sizes/24/play.png",
+      "48": "sizes/48/play.png",
+      "96": "icons/play.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "pause",
+    "label": "暂停",
+    "group": "沟通与媒体",
+    "file": "icons/pause.png",
+    "sizes": {
+      "24": "sizes/24/pause.png",
+      "48": "sizes/48/pause.png",
+      "96": "icons/pause.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "volume",
+    "label": "音量",
+    "group": "沟通与媒体",
+    "file": "icons/volume.png",
+    "sizes": {
+      "24": "sizes/24/volume.png",
+      "48": "sizes/48/volume.png",
+      "96": "icons/volume.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "fullscreen",
+    "label": "全屏",
+    "group": "沟通与媒体",
+    "file": "icons/fullscreen.png",
+    "sizes": {
+      "24": "sizes/24/fullscreen.png",
+      "48": "sizes/48/fullscreen.png",
+      "96": "icons/fullscreen.png"
+    },
+    "width": 96,
+    "height": 96
+  },
+  {
+    "name": "folder",
+    "label": "文件夹",
+    "group": "文件和文件夹",
+    "file": "icons/folder.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/folder.png",
+      "48": "sizes/48/folder.png",
+      "96": "icons/folder.png"
+    }
+  },
+  {
+    "name": "folder-open",
+    "label": "打开文件夹",
+    "group": "文件和文件夹",
+    "file": "icons/folder-open.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/folder-open.png",
+      "48": "sizes/48/folder-open.png",
+      "96": "icons/folder-open.png"
+    }
+  },
+  {
+    "name": "folder-add",
+    "label": "新建文件夹",
+    "group": "文件和文件夹",
+    "file": "icons/folder-add.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/folder-add.png",
+      "48": "sizes/48/folder-add.png",
+      "96": "icons/folder-add.png"
+    }
+  },
+  {
+    "name": "file",
+    "label": "文件",
+    "group": "文件和文件夹",
+    "file": "icons/file.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/file.png",
+      "48": "sizes/48/file.png",
+      "96": "icons/file.png"
+    }
+  },
+  {
+    "name": "file-text",
+    "label": "文本文档",
+    "group": "文件和文件夹",
+    "file": "icons/file-text.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/file-text.png",
+      "48": "sizes/48/file-text.png",
+      "96": "icons/file-text.png"
+    }
+  },
+  {
+    "name": "file-image",
+    "label": "图片文件",
+    "group": "文件和文件夹",
+    "file": "icons/file-image.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/file-image.png",
+      "48": "sizes/48/file-image.png",
+      "96": "icons/file-image.png"
+    }
+  },
+  {
+    "name": "file-archive",
+    "label": "压缩文件",
+    "group": "文件和文件夹",
+    "file": "icons/file-archive.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/file-archive.png",
+      "48": "sizes/48/file-archive.png",
+      "96": "icons/file-archive.png"
+    }
+  },
+  {
+    "name": "attachment",
+    "label": "附件",
+    "group": "文件和文件夹",
+    "file": "icons/attachment.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/attachment.png",
+      "48": "sizes/48/attachment.png",
+      "96": "icons/attachment.png"
+    }
+  },
+  {
+    "name": "user",
+    "label": "用户",
+    "group": "用户和权限",
+    "file": "icons/user.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/user.png",
+      "48": "sizes/48/user.png",
+      "96": "icons/user.png"
+    }
+  },
+  {
+    "name": "users",
+    "label": "群组",
+    "group": "用户和权限",
+    "file": "icons/users.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/users.png",
+      "48": "sizes/48/users.png",
+      "96": "icons/users.png"
+    }
+  },
+  {
+    "name": "user-add",
+    "label": "添加成员",
+    "group": "用户和权限",
+    "file": "icons/user-add.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/user-add.png",
+      "48": "sizes/48/user-add.png",
+      "96": "icons/user-add.png"
+    }
+  },
+  {
+    "name": "user-remove",
+    "label": "移除成员",
+    "group": "用户和权限",
+    "file": "icons/user-remove.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/user-remove.png",
+      "48": "sizes/48/user-remove.png",
+      "96": "icons/user-remove.png"
+    }
+  },
+  {
+    "name": "lock",
+    "label": "已锁定",
+    "group": "用户和权限",
+    "file": "icons/lock.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/lock.png",
+      "48": "sizes/48/lock.png",
+      "96": "icons/lock.png"
+    }
+  },
+  {
+    "name": "unlock",
+    "label": "已解锁",
+    "group": "用户和权限",
+    "file": "icons/unlock.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/unlock.png",
+      "48": "sizes/48/unlock.png",
+      "96": "icons/unlock.png"
+    }
+  },
+  {
+    "name": "key",
+    "label": "钥匙",
+    "group": "用户和权限",
+    "file": "icons/key.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/key.png",
+      "48": "sizes/48/key.png",
+      "96": "icons/key.png"
+    }
+  },
+  {
+    "name": "shield-check",
+    "label": "已验证",
+    "group": "用户和权限",
+    "file": "icons/shield-check.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/shield-check.png",
+      "48": "sizes/48/shield-check.png",
+      "96": "icons/shield-check.png"
+    }
+  },
+  {
+    "name": "loading",
+    "label": "加载中",
+    "group": "加载和出错",
+    "file": "icons/loading.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/loading.png",
+      "48": "sizes/48/loading.png",
+      "96": "icons/loading.png"
+    }
+  },
+  {
+    "name": "hourglass",
+    "label": "等待中",
+    "group": "加载和出错",
+    "file": "icons/hourglass.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/hourglass.png",
+      "48": "sizes/48/hourglass.png",
+      "96": "icons/hourglass.png"
+    }
+  },
+  {
+    "name": "timeout",
+    "label": "请求超时",
+    "group": "加载和出错",
+    "file": "icons/timeout.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/timeout.png",
+      "48": "sizes/48/timeout.png",
+      "96": "icons/timeout.png"
+    }
+  },
+  {
+    "name": "warning",
+    "label": "警告",
+    "group": "加载和出错",
+    "file": "icons/warning.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/warning.png",
+      "48": "sizes/48/warning.png",
+      "96": "icons/warning.png"
+    }
+  },
+  {
+    "name": "error",
+    "label": "出错",
+    "group": "加载和出错",
+    "file": "icons/error.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/error.png",
+      "48": "sizes/48/error.png",
+      "96": "icons/error.png"
+    }
+  },
+  {
+    "name": "offline",
+    "label": "网络断开",
+    "group": "加载和出错",
+    "file": "icons/offline.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/offline.png",
+      "48": "sizes/48/offline.png",
+      "96": "icons/offline.png"
+    }
+  },
+  {
+    "name": "server-error",
+    "label": "服务异常",
+    "group": "加载和出错",
+    "file": "icons/server-error.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/server-error.png",
+      "48": "sizes/48/server-error.png",
+      "96": "icons/server-error.png"
+    }
+  },
+  {
+    "name": "access-denied",
+    "label": "无权访问",
+    "group": "加载和出错",
+    "file": "icons/access-denied.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/access-denied.png",
+      "48": "sizes/48/access-denied.png",
+      "96": "icons/access-denied.png"
+    }
+  },
+  {
+    "name": "inbox-empty",
+    "label": "收件箱为空",
+    "group": "空页面和状态",
+    "file": "icons/inbox-empty.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/inbox-empty.png",
+      "48": "sizes/48/inbox-empty.png",
+      "96": "icons/inbox-empty.png"
+    }
+  },
+  {
+    "name": "search-empty",
+    "label": "没有搜索结果",
+    "group": "空页面和状态",
+    "file": "icons/search-empty.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/search-empty.png",
+      "48": "sizes/48/search-empty.png",
+      "96": "icons/search-empty.png"
+    }
+  },
+  {
+    "name": "list-empty",
+    "label": "列表为空",
+    "group": "空页面和状态",
+    "file": "icons/list-empty.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/list-empty.png",
+      "48": "sizes/48/list-empty.png",
+      "96": "icons/list-empty.png"
+    }
+  },
+  {
+    "name": "image-missing",
+    "label": "图片缺失",
+    "group": "空页面和状态",
+    "file": "icons/image-missing.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/image-missing.png",
+      "48": "sizes/48/image-missing.png",
+      "96": "icons/image-missing.png"
+    }
+  },
+  {
+    "name": "success",
+    "label": "成功",
+    "group": "空页面和状态",
+    "file": "icons/success.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/success.png",
+      "48": "sizes/48/success.png",
+      "96": "icons/success.png"
+    }
+  },
+  {
+    "name": "info",
+    "label": "提示",
+    "group": "空页面和状态",
+    "file": "icons/info.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/info.png",
+      "48": "sizes/48/info.png",
+      "96": "icons/info.png"
+    }
+  },
+  {
+    "name": "sync-complete",
+    "label": "同步完成",
+    "group": "空页面和状态",
+    "file": "icons/sync-complete.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/sync-complete.png",
+      "48": "sizes/48/sync-complete.png",
+      "96": "icons/sync-complete.png"
+    }
+  },
+  {
+    "name": "draft",
+    "label": "草稿",
+    "group": "空页面和状态",
+    "file": "icons/draft.png",
+    "width": 96,
+    "height": 96,
+    "sizes": {
+      "24": "sizes/24/draft.png",
+      "48": "sizes/48/draft.png",
+      "96": "icons/draft.png"
+    }
   }
 ]
