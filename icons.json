@@ -1,0 +1,210 @@
+[
+  {
+    "name": "wink-tv",
+    "label": "发现",
+    "group": "频道",
+    "file": "icons/wink-tv.png",
+    "width": 168,
+    "height": 168
+  },
+  {
+    "name": "feed-paperplane",
+    "label": "动态",
+    "group": "频道",
+    "file": "icons/feed-paperplane.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "msg-envelope",
+    "label": "消息",
+    "group": "频道",
+    "file": "icons/msg-envelope.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "rank-rosette",
+    "label": "排行榜",
+    "group": "频道",
+    "file": "icons/rank-rosette.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "popular-flame",
+    "label": "综合热门",
+    "group": "频道",
+    "file": "icons/popular-flame.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "precious-ticket",
+    "label": "入站必刷",
+    "group": "频道",
+    "file": "icons/precious-ticket.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "weekly-calendar",
+    "label": "每周必看",
+    "group": "频道",
+    "file": "icons/weekly-calendar.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "live-camera",
+    "label": "直播",
+    "group": "频道",
+    "file": "icons/live-camera.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "bangumi-clapper",
+    "label": "番剧",
+    "group": "频道",
+    "file": "icons/bangumi-clapper.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "profile-badge",
+    "label": "个人中心",
+    "group": "我的",
+    "file": "icons/profile-badge.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "history-clock",
+    "label": "历史",
+    "group": "我的",
+    "file": "icons/history-clock.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "favorite-folder",
+    "label": "收藏夹",
+    "group": "我的",
+    "file": "icons/favorite-folder.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "later-screen",
+    "label": "稍后再看",
+    "group": "我的",
+    "file": "icons/later-screen.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "following-pair",
+    "label": "关注",
+    "group": "我的",
+    "file": "icons/following-pair.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "liked-thumb",
+    "label": "赞过的视频",
+    "group": "我的",
+    "file": "icons/liked-thumb.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "library-record",
+    "label": "曲库",
+    "group": "我的",
+    "file": "icons/library-record.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "download-tray",
+    "label": "已下载",
+    "group": "我的",
+    "file": "icons/download-tray.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "settings-dial",
+    "label": "设置",
+    "group": "我的",
+    "file": "icons/settings-dial.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "upload-cloud",
+    "label": "投稿",
+    "group": "投稿与服务",
+    "file": "icons/upload-cloud.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "creator-pen",
+    "label": "专栏投稿／创作中心",
+    "group": "投稿与服务",
+    "file": "icons/creator-pen.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "shop-parcel",
+    "label": "会员购",
+    "group": "投稿与服务",
+    "file": "icons/shop-parcel.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "comic-book",
+    "label": "漫画",
+    "group": "投稿与服务",
+    "file": "icons/comic-book.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "event-cup",
+    "label": "赛事",
+    "group": "投稿与服务",
+    "file": "icons/event-cup.png",
+    "width": 120,
+    "height": 120
+  },
+  {
+    "name": "animation-cels",
+    "label": "动画",
+    "group": "内容分区",
+    "file": "icons/animation-cels.png",
+    "width": 112,
+    "height": 112
+  },
+  {
+    "name": "cassette",
+    "label": "音乐",
+    "group": "内容分区",
+    "file": "icons/cassette.png",
+    "width": 112,
+    "height": 102
+  },
+  {
+    "name": "handheld",
+    "label": "游戏",
+    "group": "内容分区",
+    "file": "icons/handheld.png",
+    "width": 112,
+    "height": 112
+  }
+]
